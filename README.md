@@ -1,5 +1,10 @@
 # stats-110
 
+[Intuitive Explanations](http://qr.ae/RUWURc)
+
+Download the [Probability Cheatsheet](http://www.wzchen.com/probability-cheatsheet)
+
+
 Requires [Python 3.5 or greater](https://www.python.org/downloads/release/python-350/).
 
 If you are seeing an annoying trailing line at the right for the embedded MathJax images,
