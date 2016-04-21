@@ -28,6 +28,7 @@ equations](http://stackoverflow.com/questions/35171714/ipython-jupyter-notebook-
 1. Expectation, Continuing
 1. The Poisson Distribution
 1. Discrete vs. Continuous, the Uniform
+1. Standard Normal, Normal-normalizing contstant
 
 
 
