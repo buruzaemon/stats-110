@@ -34,6 +34,7 @@ equations](http://stackoverflow.com/questions/35171714/ipython-jupyter-notebook-
 
 ## Helpful Links
 
+* [MathJax Documentation](http://docs.mathjax.org/en/latest/)
 * [LaTeX/Mathematics](https://en.wikibooks.org/wiki/LaTeX/Mathematics)
 * [LaTeX Symbols](https://www.artofproblemsolving.com/wiki/index.php/LaTeX:Symbols)
 * Can't remember that $\LaTeX$ symbol? Try [this](http://detexify.kirelabs.org/classify.html)
