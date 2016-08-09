@@ -31,8 +31,8 @@ equations](http://stackoverflow.com/questions/35171714/ipython-jupyter-notebook-
 1. Standard Normal, Normal-normalizing constant
 1. Normal distribution, standardization, LOTUS
 1. Midterm review, extra examples
-1. Exponential distribution, memoryless property
-
+1. Exponential distribution, memorylessness property
+1. Moment Generating Functions (MGFs), hybrid Bayes' rule, Laplace's rule of succession
 
 
 ## Helpful Links
