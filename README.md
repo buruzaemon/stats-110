@@ -44,11 +44,11 @@ equations](http://stackoverflow.com/questions/35171714/ipython-jupyter-notebook-
    constant](https://nbviewer.jupyter.org/github/buruzaemon/stats-110/blob/master/Lecture_13.ipynb)
 1. [Normal distribution, standardization,
    LOTUS](https://nbviewer.jupyter.org/github/buruzaemon/stats-110/blob/master/Lecture_14.ipynb)
-1. [Midterm review, extra
-   examples](https://nbviewer.jupyter.org/github/buruzaemon/stats-110/blob/master/Lecture_16.ipynb)
+1. Midterm review, skipping
 1. [Exponential distribution, memorylessness
-   property](https://nbviewer.jupyter.org/github/buruzaemon/stats-110/blob/master/Lecture_17.ipynb)
-1. [Moment Generating Functions (MGFs), hybrid Bayes' rule, Laplace's rule of succession](https://nbviewer.jupyter.org/github/buruzaemon/stats-110/blob/master/Lecture_18.ipynb)
+   property](https://nbviewer.jupyter.org/github/buruzaemon/stats-110/blob/master/Lecture_16.ipynb)
+1. [Moment Generating Functions (MGFs), hybrid Bayes' rule, Laplace's rule of succession](https://nbviewer.jupyter.org/github/buruzaemon/stats-110/blob/master/Lecture_17.ipynb)
+1. [MGFs to get moments of Expo and Normal, sums of Poissons, joint distributions](https://nbviewer.jupyter.org/github/buruzaemon/stats-110/blob/master/Lecture_17.ipynb)
 1. [Joint, conditional, and marginal distributions, 2-D LOTUS, expected distance between Uniforms, chicken-egg](https://nbviewer.jupyter.org/github/buruzaemon/stats-110/blob/master/Lecture_19.ipynb)
 
 
