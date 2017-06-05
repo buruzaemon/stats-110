@@ -16,7 +16,8 @@ equations](http://stackoverflow.com/questions/35171714/ipython-jupyter-notebook-
 
 ## Lectures
 
-1. Probability and Counting
+1. [Probability and
+   Counting](https://nbviewer.jupyter.org/github/buruzaemon/stats-110/blob/master/Lecture_01.ipynb)
 1. Story Proofs, Axioms of Probability
 1. Birthday Problem, Properties of Probability
 1. Conditional Probability
