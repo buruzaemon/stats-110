@@ -18,22 +18,38 @@ equations](http://stackoverflow.com/questions/35171714/ipython-jupyter-notebook-
 
 1. [Probability and
    Counting](https://nbviewer.jupyter.org/github/buruzaemon/stats-110/blob/master/Lecture_01.ipynb)
-1. Story Proofs, Axioms of Probability
-1. Birthday Problem, Properties of Probability
-1. Conditional Probability
-1. Conditioning Continued, Law of Total Probability
-1. Monty Hall, Simpson's Paradox
-1. Gambler's Ruin and Random Variables
-1. Random Variables and Their Distributions
-1. Expectation, Indicator Random Variables, Linearity
-1. Expectation, Continuing
-1. The Poisson Distribution
-1. Discrete vs. Continuous, the Uniform
-1. Standard Normal, Normal-normalizing constant
-1. Normal distribution, standardization, LOTUS
-1. Midterm review, extra examples
-1. Exponential distribution, memorylessness property
-1. Moment Generating Functions (MGFs), hybrid Bayes' rule, Laplace's rule of succession
+1. [Story Proofs, Axioms of
+   Probability](https://nbviewer.jupyter.org/github/buruzaemon/stats-110/blob/master/Lecture_02.ipynb)
+1. [Birthday Problem, Properties of
+   Probability](https://nbviewer.jupyter.org/github/buruzaemon/stats-110/blob/master/Lecture_03.ipynb)
+1. [Conditional
+   Probability](https://nbviewer.jupyter.org/github/buruzaemon/stats-110/blob/master/Lecture_04.ipynb)
+1. [Conditioning Continued, Law of Total
+   Probability](https://nbviewer.jupyter.org/github/buruzaemon/stats-110/blob/master/Lecture_05.ipynb)
+1. [Monty Hall, Simpson's
+   Paradox](https://nbviewer.jupyter.org/github/buruzaemon/stats-110/blob/master/Lecture_06.ipynb)
+1. [Gambler's Ruin and Random
+   Variables](https://nbviewer.jupyter.org/github/buruzaemon/stats-110/blob/master/Lecture_07.ipynb)
+1. [Random Variables and Their
+   Distributions](https://nbviewer.jupyter.org/github/buruzaemon/stats-110/blob/master/Lecture_08.ipynb)
+1. [Expectation, Indicator Random Variables,
+   Linearity](https://nbviewer.jupyter.org/github/buruzaemon/stats-110/blob/master/Lecture_09.ipynb)
+1. [Expectation,
+   Continuing](https://nbviewer.jupyter.org/github/buruzaemon/stats-110/blob/master/Lecture_10.ipynb)
+1. [The Poisson
+   Distribution](https://nbviewer.jupyter.org/github/buruzaemon/stats-110/blob/master/Lecture_11.ipynb)
+1. [Discrete vs. Continuous, the
+   Uniform](https://nbviewer.jupyter.org/github/buruzaemon/stats-110/blob/master/Lecture_12.ipynb)
+1. [Standard Normal, Normal-normalizing
+   constant](https://nbviewer.jupyter.org/github/buruzaemon/stats-110/blob/master/Lecture_13.ipynb)
+1. [Normal distribution, standardization,
+   LOTUS](https://nbviewer.jupyter.org/github/buruzaemon/stats-110/blob/master/Lecture_14.ipynb)
+1. [Midterm review, extra
+   examples](https://nbviewer.jupyter.org/github/buruzaemon/stats-110/blob/master/Lecture_16.ipynb)
+1. [Exponential distribution, memorylessness
+   property](https://nbviewer.jupyter.org/github/buruzaemon/stats-110/blob/master/Lecture_17.ipynb)
+1. [Moment Generating Functions (MGFs), hybrid Bayes' rule, Laplace's rule of succession](https://nbviewer.jupyter.org/github/buruzaemon/stats-110/blob/master/Lecture_18.ipynb)
+1. [Joint, conditional, and marginal distributions, 2-D LOTUS, expected distance between Uniforms, chicken-egg](https://nbviewer.jupyter.org/github/buruzaemon/stats-110/blob/master/Lecture_19.ipynb)
 
 
 ## Helpful Links
