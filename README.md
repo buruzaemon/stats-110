@@ -51,6 +51,7 @@ equations](http://stackoverflow.com/questions/35171714/ipython-jupyter-notebook-
 1. [MGFs to get moments of Expo and Normal, sums of Poissons, joint distributions](https://nbviewer.jupyter.org/github/buruzaemon/stats-110/blob/master/Lecture_18.ipynb)
 1. [Joint, conditional, and marginal distributions, 2-D LOTUS, expected distance between Uniforms, chicken-egg](https://nbviewer.jupyter.org/github/buruzaemon/stats-110/blob/master/Lecture_19.ipynb)
 1. [Expected distance between Normals, Multinomial, Cauchy](https://nbviewer.jupyter.org/github/buruzaemon/stats-110/blob/master/Lecture_20.ipynb)
+1. [Covariance, Correlation, Variance of a sum, Variance of Binomial & Hypergeometric](https://nbviewer.jupyter.org/github/buruzaemon/stats-110/blob/master/Lecture_21.ipynb)
 
 
 ## Helpful Links
