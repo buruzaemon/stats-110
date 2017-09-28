@@ -53,7 +53,7 @@ equations](http://stackoverflow.com/questions/35171714/ipython-jupyter-notebook-
 1. [Expected distance between Normals, Multinomial, Cauchy](https://nbviewer.jupyter.org/github/buruzaemon/stats-110/blob/master/Lecture_20.ipynb)
 1. [Covariance, Correlation, Variance of a sum, Variance of Binomial & Hypergeometric](https://nbviewer.jupyter.org/github/buruzaemon/stats-110/blob/master/Lecture_21.ipynb)
 1. [Transformations, Log-Normal, Convolutions, Proving Existence](https://nbviewer.jupyter.org/github/buruzaemon/stats-110/blob/master/Lecture_22.ipynb)
-1. [Beta distribution, Bayes' Billiards, Finance preview](https://nbviewer.jupyter.org/github/buruzaemon/stats-110/blob/master/Lecture_23.ipynb)
+1. [Beta distribution, Bayes' Billiards](https://nbviewer.jupyter.org/github/buruzaemon/stats-110/blob/master/Lecture_23.ipynb)
 
 
 ## Helpful Links
