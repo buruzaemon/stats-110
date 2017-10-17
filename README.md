@@ -56,6 +56,7 @@ equations](http://stackoverflow.com/questions/35171714/ipython-jupyter-notebook-
 1. [Beta distribution, Bayes' Billiards](https://nbviewer.jupyter.org/github/buruzaemon/stats-110/blob/master/Lecture_23.ipynb)
 1. [Gamma distribution, Poisson processes](https://nbviewer.jupyter.org/github/buruzaemon/stats-110/blob/master/Lecture_24.ipynb)
 1. [Beta-Gamma, Order Statistics, Conditional Expection, 2-envelope Paradox](https://nbviewer.jupyter.org/github/buruzaemon/stats-110/blob/master/Lecture_25.ipynb)
+1. [2-envelope paradox (cont.), Conditional Expectation (cont.), Waiting for HT vs. waiting for HH](https://nbviewer.jupyter.org/github/buruzaemon/stats-110/blob/master/Lecture_26.ipynb)
 
 
 ## Helpful Links
