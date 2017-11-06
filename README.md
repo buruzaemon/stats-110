@@ -59,6 +59,7 @@ equations](http://stackoverflow.com/questions/35171714/ipython-jupyter-notebook-
 1. [2-envelope paradox (cont.), Conditional Expectation (cont.), Waiting for HT vs. waiting for HH](https://nbviewer.jupyter.org/github/buruzaemon/stats-110/blob/master/Lecture_26.ipynb)
 1. [Conditional expectation (cont.); taking out what's known; Adam's Law, Eve's Law; projection picture](https://nbviewer.jupyter.org/github/buruzaemon/stats-110/blob/master/Lecture_27.ipynb)
 1. [Sum of a random number of random variables; inequalities (Cauchy-Schwarz, Jensen, Markov, Chebyshev)](https://nbviewer.jupyter.org/github/buruzaemon/stats-110/blob/master/Lecture_28.ipynb)
+1. [Law of Large Numbers, Central Limit Theorem](https://nbviewer.jupyter.org/github/buruzaemon/stats-110/blob/master/Lecture_29.ipynb)
 
 
 ## Helpful Links
