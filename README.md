@@ -60,7 +60,7 @@ equations](http://stackoverflow.com/questions/35171714/ipython-jupyter-notebook-
 1. [Conditional expectation (cont.); taking out what's known; Adam's Law, Eve's Law; projection picture](https://nbviewer.jupyter.org/github/buruzaemon/stats-110/blob/master/Lecture_27.ipynb)
 1. [Sum of a random number of random variables; inequalities (Cauchy-Schwarz, Jensen, Markov, Chebyshev)](https://nbviewer.jupyter.org/github/buruzaemon/stats-110/blob/master/Lecture_28.ipynb)
 1. [Law of Large Numbers, Central Limit Theorem](https://nbviewer.jupyter.org/github/buruzaemon/stats-110/blob/master/Lecture_29.ipynb)
-1. [Chi-Square, Student-t, Multivariate Normal](https://nbviewer.jupyter.org/github/buruzaemon/stats-110/blob/master/Lecture_30.ipynb)
+1. [Chi-Square, Student's t, Multivariate Normal](https://nbviewer.jupyter.org/github/buruzaemon/stats-110/blob/master/Lecture_30.ipynb)
 
 
 ## Helpful Links
