@@ -62,6 +62,7 @@ equations](http://stackoverflow.com/questions/35171714/ipython-jupyter-notebook-
 1. [Law of Large Numbers, Central Limit Theorem](https://nbviewer.jupyter.org/github/buruzaemon/stats-110/blob/master/Lecture_29.ipynb)
 1. [Chi-Square, Student's t, Multivariate Normal](https://nbviewer.jupyter.org/github/buruzaemon/stats-110/blob/master/Lecture_30.ipynb)
 1. [Markov chains, Transition Matrix, Stationary Distribution](https://nbviewer.jupyter.org/github/buruzaemon/stats-110/blob/master/Lecture_31.ipynb)
+1. [Markov chains (cont.), Google PageRank as a Markov chain](https://nbviewer.jupyter.org/github/buruzaemon/stats-110/blob/master/Lecture_32.ipynb)
 
 
 ## Helpful Links
