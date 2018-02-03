@@ -64,6 +64,7 @@ equations](http://stackoverflow.com/questions/35171714/ipython-jupyter-notebook-
 1. [Markov chains, Transition Matrix, Stationary Distribution](https://nbviewer.jupyter.org/github/buruzaemon/stats-110/blob/master/Lecture_31.ipynb)
 1. [Markov chains (cont.), irreducibility, recurrence, transience, reversibility, random walk on an undirected network](https://nbviewer.jupyter.org/github/buruzaemon/stats-110/blob/master/Lecture_32.ipynb)
 1. [Markov chains (cont.), Google PageRank as a Markov chain](https://nbviewer.jupyter.org/github/buruzaemon/stats-110/blob/master/Lecture_33.ipynb)
+1. [A Look Ahead; Examples of Regression Example, Sampling from a Finite Population](https://nbviewer.jupyter.org/github/buruzaemon/stats-110/blob/master/Lecture_34.ipynb)
 
 
 ## Helpful Links
