@@ -1,4 +1,10 @@
-# stats-110
+# Statistics 110
+
+Notes and Python code for [Statistics 110: Probability course on iTunes](https://itunes.apple.com/jp/course/statistics-110-probability/id502492375), taught by Joe Blitzstein, Harvard University.
+
+
+
+
 
 [Intuitive Explanations](http://qr.ae/RUWURc)
 
