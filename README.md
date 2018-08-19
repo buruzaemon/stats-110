@@ -39,7 +39,7 @@ equations](http://stackoverflow.com/questions/35171714/ipython-jupyter-notebook-
 1. [Expectation, Indicator Random Variables,
    Linearity](https://nbviewer.jupyter.org/github/buruzaemon/stats-110/blob/master/Lecture_09.ipynb)
 1. [Expectation,
-   Continuing](https://nbviewer.jupyter.org/github/buruzaemon/stats-110/blob/master/Lecture_10.ipynb)
+   Continued](https://nbviewer.jupyter.org/github/buruzaemon/stats-110/blob/master/Lecture_10.ipynb)
 1. [The Poisson
    Distribution](https://nbviewer.jupyter.org/github/buruzaemon/stats-110/blob/master/Lecture_11.ipynb)
 1. [Discrete vs. Continuous, the
